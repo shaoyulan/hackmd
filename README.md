@@ -1,5 +1,5 @@
 ---
-title: Capacitor IOS
+title: '**Capacitor IOS**'
 
 ---
 
@@ -254,12 +254,12 @@ No, users cannot win any prize money in the app.
 
 
 Guideline 4.1
-Our app primarily serves as a convenient channel for Japanese users to access horse racing information. 
+Our app primarily serves as a convenient channel for Japanese users to access sport information. 
 
 Thank you once again for your feedback. We are willing to provide any additional information required for your review to facilitate a smooth approval process.
 
 Sincerely,
-PEI LING ZHONG
+SHAO YU LAN
 :::
 
 # **審查流程**
